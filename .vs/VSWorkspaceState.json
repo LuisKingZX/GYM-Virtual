@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API\\Controllers",
+    "\\BL",
+    "\\BL\\CustomValidations",
+    "\\DataAccess",
+    "\\DataAccess\\EntityFramework",
+    "\\DTO",
+    "\\DTO\\Dtos",
+    "\\GymFrontend",
+    "\\GymFrontend\\Controllers"
+  ],
+  "SelectedNode": "\\GymFrontend\\Controllers\\UsersController.cs",
+  "PreviewInSolutionExplorer": false
+}
