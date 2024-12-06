@@ -1,0 +1,17 @@
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DTO.dll
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\bin\Debug\net7.0\DTO.pdb
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.Up2Date
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\vegal\OneDrive\Desktop\Documentos\GitHub\gymWebApp\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
