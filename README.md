@@ -1,6 +1,6 @@
 # GYM-Virtual
 Aplicación web de una pagina para llevar un historial controlado de un GYM
 Este proyecto fue creado por:
-Luis Vega Araya
-Yessenia Esquivel Benavides
+Luis Vega Araya,
+Yessenia Esquivel Benavides y
 Jose Daniel Steller Vargas
